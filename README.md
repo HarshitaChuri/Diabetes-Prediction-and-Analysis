@@ -1,1 +1,3 @@
 # Diabetes-Prediction-and-Analysis
+
+This project focuses on diabetes prediction and analysis using machine learning techniques. The dataset is analyzed for key health indicators such as BMI, blood pressure, and cholesterol levels. Various predictive models, including logistic regression, are implemented to assess the likelihood of diabetes, smoking habits, and high cholesterol. The project includes data preprocessing, model training, and evaluation, along with visualizations to highlight important correlations. User inputs are utilized to provide personalized health advice based on model predictions.
